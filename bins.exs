@@ -1,3 +1,5 @@
+# http://rosalind.info/problems/bins/
+
 defmodule Binary do
   def search(set, item) do
       length = Enum.count set

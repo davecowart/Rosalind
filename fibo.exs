@@ -1,3 +1,5 @@
+# http://rosalind.info/problems/fibo/
+
 defmodule Fibo do
   def fib(0) do 0 end
   def fib(1) do 1 end
